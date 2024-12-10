@@ -1,54 +1,36 @@
-<header>
+Android phone remote control
+Applicable to all versions of Android
+📌 New interface and logo
+📌 New update for MIUI + ColorOS phones. Enabling background permissions is easier than ever
+📌Automatic screen unlock: needs to be detected once
+📌 Monitor selected applications
+📌 Send notification to mobile phone
+📌 Cut off internet access for any app
+📌 Helps connections last longer
+Common Functions
+📌Manager: Files, SMS, Contacts, Calls, Accounts, Apps, Permissions
+📌Monitor: screen controls, camera, microphone, keylogger, location, web browser, call recorder, auto-clicker, screen reader
+📌 Admin: Request admin rights, lock screen, wipe data  keylogging
+📌 Tools: Call Number, Download Apk, Show Message, Clipboard, Open Link, Shell Command
+📌Extras: notification list, social media hunter, phone messages
+📌Contact me if you need customized icon color
+📌Contact with me 
+ (https://t.me/evfldev)
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+安卓手机远控
+适用于Android所有版本
+📌 新界面和标志
+📌 MIUI + ColorOS 手机的新更新。启用后台权限比以往更容易
+📌自动屏幕解锁：需要检测一次
+📌 监控选定的应用程序
+📌 向手机发送通知
+📌 切断任何应用程序的互联网访问
+📌 帮助连接持续更长时间
+常用功能
+📌管理器：文件、短信、联系人、通话、帐户、应用程序、权限
+📌监视器：屏幕控制、摄像头、麦克风、键盘记录器、位置、网络浏览器、通话录音器、自动点击器、屏幕阅读器
+📌 管理员：请求管理员权限、锁定屏幕、擦除数据  键盘记录
+📌 工具：索书号、下载 Apk、显示消息、剪贴板、打开链接、Shell 命令
+📌额外：通知列表、社交媒体猎人、电话信息
+📌需要定制的图标颜色的联系我
+📌与我联系 > 与我联系 (https://t.me/evfldev)
